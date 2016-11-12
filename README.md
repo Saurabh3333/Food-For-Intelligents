@@ -4,7 +4,7 @@
 It is Basically an intesting food ordering application in which people can select from various choices available.
 It is based on the concepts of coins and not on official currency. 
 As the user sinups they are provided with a trial coins pack and it may used for future orders.
-In making of this application Netbeans is used as an IDE. Interfaces are created by using JAVA Swings. MySQL for database management.
+In making of this application Netbeans is used as an IDE. Interfaces are created by using JAVA Swings. MySQL for database management. Python integration for OTP verification.
 # It's key features:
 1. Individual Login
 2. Sinup with realtime OTP verification.
