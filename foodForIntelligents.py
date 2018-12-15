@@ -17,8 +17,8 @@ def read_text():
           print(b)
           print(c)
            
-          account_sid = "ACd57b7e0708f3657c256e800bc2dc801e" 
-          auth_token  = "8de539124e4f0456bb453d62eab25ac2" 
+          account_sid = "##" 
+          auth_token  = "##" 
 
           client = TwilioRestClient(account_sid, auth_token)
 
